@@ -8,12 +8,12 @@ body {
 
 /* 4. - Írjon egy CSS-szabályt a fejléc címke stílusához a háttérszín tulajdonság módosítására.*/
 header {
-    background: darkgreen;
+    background: whitesmoke;
 }
 
 /* 5. - Írjon egy CSS-szabályt a nav tag stílusához, hogy módosítsa a háttérszín tulajdonságot.*/
 nav {
-    background: lightgreen;
+    background: darkblue;
 }
 
 /*6. - Írjon egy CSS-szabályt a main tag stílusához a háttérszín és a betűméret tulajdonság módosításához*/
